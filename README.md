@@ -1,4 +1,4 @@
-# Hi, I'm Birang Pawala 👋
+# Hi, I'm Birang Pawala
 
 ### Flutter Developer | Dart | Firebase | PHP & MySQL
 
