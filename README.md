@@ -2,10 +2,11 @@
 
 ### Flutter Developer | Dart | Firebase | PHP & MySQL
 
-I'm an MCA student and developer focused on building mobile applications,
-REST APIs, and real-time applications.
+I'm an MCA student and developer focused on building mobile applications, REST APIs, and real-time applications.
 
-### 🚀 What I Work With
+---
+
+## 🚀 Tech Stack
 
 - 📱 Flutter & Dart
 - 🔥 Firebase
@@ -13,29 +14,49 @@ REST APIs, and real-time applications.
 - 🌐 REST APIs
 - 🗄️ SQL & Database Design
 - 🧭 Riverpod & GoRouter
-- 🎵 Audio & Media Applications
+- ☁️ Cloudinary
 - 📞 Real-time Communication
 
-### 🛠️ Featured Projects
+---
 
-| Project | Description | Tech |
-|---|---|---|
-| 📞 ConnectCall | Real-time video calling application | Flutter, Firebase, ZEGOCLOUD |
-| 🎵 Muzik | Music streaming application | Flutter, PHP, MySQL |
-| 🎧 MusicAPI-v2 | REST API for music applications | PHP, MySQL, Cloudinary |
-| 🛒 Ecommerce | Flutter e-commerce application | Flutter, Riverpod, REST API |
-| 💬 LetsChat | Real-time chat application | Flutter, Firebase |
-| ✅ To-Do App | Local task management application | Flutter, SQLite |
+## 🛠️ Featured Projects
 
-### 📚 Currently Learning
+### 📞 ConnectCall
+Real-time video calling application built with Flutter, Firebase, Riverpod, and ZEGOCLOUD.
+
+### 🎵 Muzik
+Music streaming application built with Flutter and a custom PHP/MySQL REST API.
+
+### 🎧 MusicAPI-v2
+RESTful PHP/MySQL API for songs, albums, artists, genres, playlists, and more.
+
+### 🛒 Ecommerce
+Flutter e-commerce application using DummyJSON API, Riverpod, GoRouter, and secure storage.
+
+### 💬 LetsChat
+Real-time Flutter chat application using Firebase authentication and messaging.
+
+### ✅ To-Do App
+Flutter task management application using SQLite and SharedPreferences.
+
+---
+
+## 📚 Currently Learning
 
 - Advanced Flutter Architecture
 - Backend & REST API Development
 - Database Optimization
-- CI/CD
-- Cloud & Deployment
+- CI/CD & Deployment
+- Cloud Technologies
 
-### 📫 Connect With Me
+---
 
-- LinkedIn: [Birang Pawala](https://www.linkedin.com/in/birang-pawala/)
-- GitHub: [@Birangcoder](https://github.com/Birangcoder)
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/birang-pawala/)
+- 🐙 [GitHub](https://github.com/Birangcoder)
+- 🌐 [MusicAPI Documentation](https://birangcoder.github.io/musicApi_documentation/)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
