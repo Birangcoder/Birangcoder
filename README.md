@@ -55,7 +55,6 @@ Flutter task management application using SQLite and SharedPreferences.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/birang-pawala/)
 - 🐙 [GitHub](https://github.com/Birangcoder)
-- 🌐 [MusicAPI Documentation](https://birangcoder.github.io/musicApi_documentation/)
 
 ---
 
